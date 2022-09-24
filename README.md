@@ -1,6 +1,6 @@
 # My Portfolio Website:
 
-[Website Link](https://gurokeretcha.github.io/myportfolio/) 
+[Website Link](https://yogirajzala.github.io/myportfolio/) 
 
 This is my portfolio where you can see information about:
 
